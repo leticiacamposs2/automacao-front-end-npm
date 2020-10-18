@@ -1,22 +1,16 @@
 {
   "name": "intro-npm",
   "version": "1.0.0",
-  "description": "- <b>Introdução</b>\r   - Instalar Node, NPM, Git e Básico de Linha de Comando",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/leticiacamposs2/automacao-front-end-npm.git"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "minclip": "uglifyjs clipboard.js -c -o clipboard.min.js"
   },
   "author": "Leticia Campos",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/leticiacamposs2/automacao-front-end-npm/issues"
-  },
-  "homepage": "https://github.com/leticiacamposs2/automacao-front-end-npm#readme",
   "dependencies": {
-    "jquery": "^3.5.1"
+    "jquery": "~3.1.0",
+    "moment": "^2.22.0"
   }
 }

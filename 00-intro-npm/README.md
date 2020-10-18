@@ -33,3 +33,9 @@ Documentação oficial: https://semver.org
 Documentação do NPM: https://docs.npmjs.com/about-semantic-versioning
 Ferramenta para testar a sintaxe: https://semver.npmjs.com/
 
+----
+
+### Dicas
+
+- Ferramentas de compactação de arquivos: UglifyJs, Terser
+- UglifyJs compativel com o ES6 tem que instalar como npm i uglify-js-es6

@@ -1,0 +1,22 @@
+{
+  "name": "intro-npm",
+  "version": "1.0.0",
+  "description": "- <b>Introdução</b>\r   - Instalar Node, NPM, Git e Básico de Linha de Comando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leticiacamposs2/automacao-front-end-npm.git"
+  },
+  "author": "Leticia Campos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leticiacamposs2/automacao-front-end-npm/issues"
+  },
+  "homepage": "https://github.com/leticiacamposs2/automacao-front-end-npm#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
